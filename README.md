@@ -3,6 +3,9 @@ Collection of interesting questions/answers on Quora
 
 ---
 
+* [What is the single best feature in any programming language?](https://www.quora.com/What-is-the-single-best-feature-in-any-programming-language/answer/Tikhon-Jelvis)
+* [What is the single worst feature in any programming language?](https://www.quora.com/What-is-the-single-worst-feature-in-any-programming-language/answer/Tikhon-Jelvis)
+* [Why Linux Doesn’t Need Defragmenting?](https://www.quora.com/profile/Ankesh-Porwal/Posts/Why-Linux-Doesn%E2%80%99t-Need-Defragmenting)
 * [How can I improve my ability to solve hard problems?](https://www.quora.com/How-can-I-improve-my-ability-to-solve-hard-problems)
 * [Education: How can I learn as much as possible in my life?](https://www.quora.com/Education-How-can-I-learn-as-much-as-possible-in-my-life/answer/Robert-Frost-1)
 * [What is the simplest intuitive proof of Dijkstra’s shortest path algorithm?](https://www.quora.com/What-is-the-simplest-intuitive-proof-of-Dijkstra%E2%80%99s-shortest-path-algorithm/answer/Anders-Kaseorg)
