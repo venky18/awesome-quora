@@ -6,6 +6,8 @@ Collection of interesting questions/answers on Quora
 
 #### Technical
 
+* [How are regular expressions implemented?](https://www.quora.com/How-are-regular-expressions-implemented/answer/Tikhon-Jelvis)
+* [Why are text editors more popular than IDEs with the engineers in the software industry?](https://www.quora.com/Why-are-text-editors-more-popular-than-IDEs-with-the-engineers-in-the-software-industry/answer/Jeremy-Hoffman)
 * [What are some useful Bash tricks?](https://www.quora.com/What-are-some-useful-Bash-tricks)
 * [What exactly goes on in the Linux scheduler when a process consumes 100% CPU? Does it mean no other process can be executed?](https://www.quora.com/What-exactly-goes-on-in-the-Linux-scheduler-when-a-process-consumes-100-CPU-Does-it-mean-no-other-process-can-be-executed/answer/Robert-Love-1)
 * [What are the top five books every computer programmer should study at least once?](https://www.quora.com/What-are-the-top-five-books-every-computer-programmer-should-study-at-least-once/answer/Tikhon-Jelvis)
