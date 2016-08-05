@@ -6,6 +6,8 @@ Collection of interesting questions/answers on Quora
 
 #### Technical
 
+* [We all hear about how simple programming can be, but what are some truly complex concepts that even experienced programmers struggle with?](https://www.quora.com/We-all-hear-about-how-simple-programming-can-be-but-what-are-some-truly-complex-concepts-that-even-experienced-programmers-struggle-with/answer/Brent-Royal-Gordon)
+* [Is PHP a badly designed programming language?](https://www.quora.com/Is-PHP-a-badly-designed-programming-language/answer/Mattias-Petter-Johansson)
 * [How are regular expressions implemented?](https://www.quora.com/How-are-regular-expressions-implemented/answer/Tikhon-Jelvis)
 * [Why are text editors more popular than IDEs with the engineers in the software industry?](https://www.quora.com/Why-are-text-editors-more-popular-than-IDEs-with-the-engineers-in-the-software-industry/answer/Jeremy-Hoffman)
 * [What are some useful Bash tricks?](https://www.quora.com/What-are-some-useful-Bash-tricks)
