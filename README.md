@@ -27,6 +27,7 @@ Collection of interesting questions/answers on Quora
 
 #### General
 
+* [How do you think the concept of God came into existence?](https://www.quora.com/How-do-you-think-the-concept-of-God-came-into-existence/answer/Tony-Miller-4)
 * [Are there skills (other than coding) that I can learn to get a good paid job?](https://www.quora.com/Are-there-skills-other-than-coding-that-I-can-learn-to-get-a-good-paid-job/answer/Balaji-Viswanathan-2)
 * [How can I polish my PowerPoint to make my presentation more compelling?](https://www.quora.com/How-can-I-polish-my-PowerPoint-to-make-my-presentation-more-compelling/answer/Robert-Frost-1)
 * [How do I turn my life around as a teenager?](https://www.quora.com/How-do-I-turn-my-life-around-as-a-teenager/answer/Shuba-Swaminathan)
