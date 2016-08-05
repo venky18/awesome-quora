@@ -6,6 +6,8 @@ Collection of interesting questions/answers on Quora
 
 #### Technical
 
+* [Linux Kernel: After a fork, where exactly does the child's execution start?](https://www.quora.com/Linux-Kernel-After-a-fork-where-exactly-does-the-childs-execution-start/answer/Robert-Love-1)
+* [Why is C++ so irreplaceable?](https://www.quora.com/Why-is-C++-so-irreplaceable/answer/Robert-Love-1)
 * [What is a simple explanation of higher order functions and callbacks in JavaScript?](https://www.quora.com/What-is-a-simple-explanation-of-higher-order-functions-and-callbacks-in-JavaScript/answer/Mattias-Petter-Johansson)
 * [We all hear about how simple programming can be, but what are some truly complex concepts that even experienced programmers struggle with?](https://www.quora.com/We-all-hear-about-how-simple-programming-can-be-but-what-are-some-truly-complex-concepts-that-even-experienced-programmers-struggle-with/answer/Brent-Royal-Gordon)
 * [Is PHP a badly designed programming language?](https://www.quora.com/Is-PHP-a-badly-designed-programming-language/answer/Mattias-Petter-Johansson)
