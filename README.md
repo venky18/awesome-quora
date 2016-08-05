@@ -28,6 +28,12 @@ Collection of interesting questions/answers on Quora
 
 #### General
 
+* [How would a person have spoken with him/herself inside his/her head before the advent of any language?](https://www.quora.com/How-would-a-person-have-spoken-with-him-herself-inside-his-her-head-before-the-advent-of-any-language/answer/Marc-Ettlinger)
+* [In movies, why don't the cool guys look back at explosions?](https://www.quora.com/In-movies-why-dont-the-cool-guys-look-back-at-explosions/answer/Mark-Hughes-1)
+* [What advice would Jimmy Wales give to the young generation?](https://www.quora.com/What-advice-would-Jimmy-Wales-give-to-the-young-generation/answer/Jimmy-Wales)
+* [How do you manage people who are clearly smarter than you, without them thinking you're an idiot?](https://www.quora.com/How-do-you-manage-people-who-are-clearly-smarter-than-you-without-them-thinking-youre-an-idiot/answer/Ian-McAllister)
+* [If we never use 90% of the stuff we learn in engineering school, why do we learn it?](https://www.quora.com/If-we-never-use-90-of-the-stuff-we-learn-in-engineering-school-why-do-we-learn-it/answer/Anirudh-Joshi)
+* [What are some of the must-see TED talks?](https://www.quora.com/What-are-some-of-the-must-see-TED-talks)
 * [How do you think the concept of God came into existence?](https://www.quora.com/How-do-you-think-the-concept-of-God-came-into-existence/answer/Tony-Miller-4)
 * [Are there skills (other than coding) that I can learn to get a good paid job?](https://www.quora.com/Are-there-skills-other-than-coding-that-I-can-learn-to-get-a-good-paid-job/answer/Balaji-Viswanathan-2)
 * [How can I polish my PowerPoint to make my presentation more compelling?](https://www.quora.com/How-can-I-polish-my-PowerPoint-to-make-my-presentation-more-compelling/answer/Robert-Frost-1)
