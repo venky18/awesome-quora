@@ -6,6 +6,7 @@ Collection of interesting questions/answers on Quora
 
 #### Technical
 
+* [What is a coder's worst nightmare?](https://www.quora.com/What-is-a-coders-worst-nightmare/answer/Mick-Stute)
 * [Linux Kernel: After a fork, where exactly does the child's execution start?](https://www.quora.com/Linux-Kernel-After-a-fork-where-exactly-does-the-childs-execution-start/answer/Robert-Love-1)
 * [Why is C++ so irreplaceable?](https://www.quora.com/Why-is-C++-so-irreplaceable/answer/Robert-Love-1)
 * [What is a simple explanation of higher order functions and callbacks in JavaScript?](https://www.quora.com/What-is-a-simple-explanation-of-higher-order-functions-and-callbacks-in-JavaScript/answer/Mattias-Petter-Johansson)
@@ -30,6 +31,12 @@ Collection of interesting questions/answers on Quora
 
 #### General
 
+* [Visual Perception: Is everyone's experience of color the same?](https://www.quora.com/Visual-Perception-Is-everyones-experience-of-color-the-same-1/answers/799528)
+* [How does the thinking or talent of a top 99.999% percentile math person differ from a 99% percentile math person?](https://www.quora.com/How-does-the-thinking-or-talent-of-a-top-99-999-percentile-math-person-differ-from-a-99-percentile-math-person/answer/Daniel-McLaury)
+* [How can one visualize 4-dimensional space?](https://www.quora.com/How-can-one-visualize-4-dimensional-space/answer/Alon-Amit)
+* [What is the most awesome paradox?](https://www.quora.com/What-is-the-most-awesome-paradox/answer/Ajim-Bagwan)
+* [How can I study more effectively?](https://www.quora.com/How-can-I-study-more-effectively/answers/3691205)
+* [Do all living organisms on Earth share a common ancestor, or did life begin more than once?](https://www.quora.com/Do-all-living-organisms-on-Earth-share-a-common-ancestor-or-did-life-begin-more-than-once/answer/Adriana-Heguy)
 * [How would a person have spoken with him/herself inside his/her head before the advent of any language?](https://www.quora.com/How-would-a-person-have-spoken-with-him-herself-inside-his-her-head-before-the-advent-of-any-language/answer/Marc-Ettlinger)
 * [In movies, why don't the cool guys look back at explosions?](https://www.quora.com/In-movies-why-dont-the-cool-guys-look-back-at-explosions/answer/Mark-Hughes-1)
 * [What advice would Jimmy Wales give to the young generation?](https://www.quora.com/What-advice-would-Jimmy-Wales-give-to-the-young-generation/answer/Jimmy-Wales)
