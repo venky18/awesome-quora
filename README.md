@@ -5,6 +5,8 @@ Collection of interesting questions/answers on Quora
 
 ## Technical
 
+* [How does a computer chip work?](https://www.quora.com/How-does-a-computer-chip-work/answer/Subhasis-Das)
+* [How would you explain the Gaussian distribution in layman's terms?](https://www.quora.com/How-would-you-explain-the-Gaussian-distribution-in-laymans-terms/answer/Breno-Sakaguti)
 * [Do the best programmers use the fewest lines of code?](https://www.quora.com/Do-the-best-programmers-use-the-fewest-lines-of-code/answer/Phillip-Remaker)
 * [Does college make you a better coder?](https://www.quora.com/Does-college-make-you-a-better-coder/answer/Hadi-Partovi)
 * [Does safely ejecting from a USB port actually do anything?](https://www.quora.com/Does-safely-ejecting-from-a-USB-port-actually-do-anything/answer/Phillip-Remaker)
@@ -47,6 +49,10 @@ Collection of interesting questions/answers on Quora
 
 ## General
 
+* [Are there any grammatically sound sentences in English where every word starts with the same letter?](https://www.quora.com/Are-there-any-grammatically-sound-sentences-in-English-where-every-word-starts-with-the-same-letter-2/answer/David-Greenspan)
+* [What is the proper definition of a startup?](https://www.quora.com/What-is-the-proper-definition-of-a-startup/answer/Dave-McClure)
+* [How do you build a company?](https://www.quora.com/How-do-you-build-a-company/answer/Chuck-Eesley)
+* [What happens to Neo at the end of The Matrix Revolutions?](https://www.quora.com/What-happens-to-Neo-at-the-end-of-The-Matrix-Revolutions/answer/Chris-Peters-2)
 * [Are human stomachs better able to digest cooked meat than raw meat? If yes, why did we evolve this way?](https://www.quora.com/Are-human-stomachs-better-able-to-digest-cooked-meat-than-raw-meat-If-yes-why-did-we-evolve-this-way/answer/Adriana-Heguy)
 * [Are there skills (other than coding) that I can learn to get a good paid job?](https://www.quora.com/Are-there-skills-other-than-coding-that-I-can-learn-to-get-a-good-paid-job/answer/Balaji-Viswanathan-2)
 * [Do all living organisms on Earth share a common ancestor, or did life begin more than once?](https://www.quora.com/Do-all-living-organisms-on-Earth-share-a-common-ancestor-or-did-life-begin-more-than-once/answer/Adriana-Heguy)
