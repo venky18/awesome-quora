@@ -6,6 +6,11 @@ Collection of interesting questions/answers on Quora
 
 #### Technical
 
+* [Why should someone learn to program in Assembly?](https://www.quora.com/Why-should-someone-learn-to-program-in-Assembly/answer/Brian-Bi)
+* [What are the top 10 pieces of career advice Brian Bi would give to future software engineers?](https://www.quora.com/What-are-the-top-10-pieces-of-career-advice-Brian-Bi-would-give-to-future-software-engineers/answer/Brian-Bi)
+* [Is C++ a good first programming language?](https://www.quora.com/Is-C++-a-good-first-programming-language/answer/Brian-Bi)
+* [What are some bad habits that self-taught programmers develop?](https://www.quora.com/What-are-some-bad-habits-that-self-taught-programmers-develop/answer/Carlos-Matias-La-Borde)
+* [What algorithms should I know to become a good programmer?](https://www.quora.com/What-algorithms-should-I-know-to-become-a-good-programmer/answer/Ashish-Kedia)
 * [Is 10^100 + 1 (a googol plus 1) prime?](https://www.quora.com/Is-10-100-+1-a-googol-plus-1-prime/answer/Alon-Amit)
 * [Game Theory: What is the prisoner's dilemma in layman's terms?](https://www.quora.com/Game-Theory-What-is-the-prisoners-dilemma-in-laymans-terms)
 * [How does BitTorrent work?](https://www.quora.com/How-does-BitTorrent-work/answer/Costya-Perepelitsa)
@@ -38,6 +43,11 @@ Collection of interesting questions/answers on Quora
 
 #### General
 
+* [What's the most frustrating thing about the popular (mis) understanding of science?](https://www.quora.com/Adriana-Heguy-Whats-the-most-frustrating-thing-about-the-popular-mis-understanding-of-science/answer/Adriana-Heguy)
+* [What is the space that atoms reside on?](https://www.quora.com/What-is-the-space-that-atoms-reside-on/answer/Richard-Muller-3)
+* [Which are the most horrific science experiments?](https://www.quora.com/Which-are-the-most-horrific-science-experiments/answer/Tal-Reichert)
+* [Why does every physicist want unification of all the fundamental forces? Maybe there is no unified theory, so why are they obsessed with this?](https://www.quora.com/Why-does-every-physicist-want-unification-of-all-the-fundamental-forces-Maybe-there-is-no-unified-theory-so-why-are-they-obsessed-with-this/answer/Richard-Muller-3)
+* [If everything is made of atoms, how are some things living and others not so? What infuses life in atoms?](https://www.quora.com/If-everything-is-made-of-atoms-how-are-some-things-living-and-others-not-so-What-infuses-life-in-atoms/answer/Viktor-T-Toth-1)
 * [How do we know that the speed of light is the fastest possible speed in the universe?](https://www.quora.com/How-do-we-know-that-the-speed-of-light-is-the-fastest-possible-speed-in-the-universe/answer/Richard-Muller-3)
 * [What should everyone know about economics?](https://www.quora.com/What-should-everyone-know-about-economics/answer/Prakarsh-Singh-1)
 * [How can I learn about Indian and world economics on my own?](https://www.quora.com/How-can-I-learn-about-Indian-and-world-economics-on-my-own/answer/Deepak-Mehta-2)
