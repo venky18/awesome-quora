@@ -6,6 +6,8 @@ Collection of interesting questions/answers on Quora
 
 #### Technical
 
+* [Does college make you a better coder?](https://www.quora.com/Does-college-make-you-a-better-coder/answer/Hadi-Partovi)
+* [What is the most interesting attack made on a website?](https://www.quora.com/What-is-the-most-interesting-attack-made-on-a-website/answer/Adri%C3%A1n-Lamo)
 * [Why should someone learn to program in Assembly?](https://www.quora.com/Why-should-someone-learn-to-program-in-Assembly/answer/Brian-Bi)
 * [What are the top 10 pieces of career advice Brian Bi would give to future software engineers?](https://www.quora.com/What-are-the-top-10-pieces-of-career-advice-Brian-Bi-would-give-to-future-software-engineers/answer/Brian-Bi)
 * [Is C++ a good first programming language?](https://www.quora.com/Is-C++-a-good-first-programming-language/answer/Brian-Bi)
@@ -43,6 +45,16 @@ Collection of interesting questions/answers on Quora
 
 #### General
 
+* [What is it like being exceptionally tall?](https://www.quora.com/What-is-it-like-being-exceptionally-tall/answer/David-Schrag)
+* [Is it possible to have a complex or imaginary probability? If so, what would that imply?](https://www.quora.com/Is-it-possible-to-have-a-complex-or-imaginary-probability-If-so-what-would-that-imply/answer/Dan-Piponi)
+* [How do we know that we're not living in a computer simulation?](https://www.quora.com/How-do-we-know-that-were-not-living-in-a-computer-simulation/answer/Dan-Piponi)
+* [Why don't many smart people go to the top 10 universities?](https://www.quora.com/Why-dont-many-smart-people-go-to-the-top-10-universities/answer/Christopher-VanLang)
+* [Are human stomachs better able to digest cooked meat than raw meat? If yes, why did we evolve this way?](https://www.quora.com/Are-human-stomachs-better-able-to-digest-cooked-meat-than-raw-meat-If-yes-why-did-we-evolve-this-way/answer/Adriana-Heguy)
+* [Why do people like Game of Thrones?](https://www.quora.com/Why-do-people-like-Game-of-Thrones-1/answer/Todd-Gardiner)
+* [What life lessons does Game of Thrones teach us?](https://www.quora.com/What-life-lessons-does-Game-of-Thrones-teach-us)
+* [Life Lessons: What can I learn in one minute that will be useful for the rest of my life?](https://www.quora.com/Life-Lessons-What-can-I-learn-in-one-minute-that-will-be-useful-for-the-rest-of-my-life-1/answer/Steven-N-Czetli)
+* [What was the most fatal/worst century in human history?](https://www.quora.com/What-was-the-most-fatal-worst-century-in-human-history/answer/Brandon-Li-11)
+* [What are some examples of novels, books etc. with exceptional, unique, groundbreaking approaches to storytelling?](https://www.quora.com/What-are-some-examples-of-novels-books-etc-with-exceptional-unique-groundbreaking-approaches-to-storytelling/answer/Jay-Bazzinotti)
 * [What's the most frustrating thing about the popular (mis) understanding of science?](https://www.quora.com/Adriana-Heguy-Whats-the-most-frustrating-thing-about-the-popular-mis-understanding-of-science/answer/Adriana-Heguy)
 * [What is the space that atoms reside on?](https://www.quora.com/What-is-the-space-that-atoms-reside-on/answer/Richard-Muller-3)
 * [Which are the most horrific science experiments?](https://www.quora.com/Which-are-the-most-horrific-science-experiments/answer/Tal-Reichert)
