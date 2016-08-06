@@ -49,6 +49,8 @@ Collection of interesting questions/answers on Quora
 
 ## General
 
+* [What were the most ridiculous startup ideas that eventually became successful?](https://www.quora.com/What-were-the-most-ridiculous-startup-ideas-that-eventually-became-successful/answer/Michael-Wolfe)
+* [What is it like to be exposed to new technology after a 20+ year prison sentence?](https://www.quora.com/What-is-it-like-to-be-exposed-to-new-technology-after-a-20+-year-prison-sentence/answer/Michael-Santos-4)
 * [Are there any grammatically sound sentences in English where every word starts with the same letter?](https://www.quora.com/Are-there-any-grammatically-sound-sentences-in-English-where-every-word-starts-with-the-same-letter-2/answer/David-Greenspan)
 * [What is the proper definition of a startup?](https://www.quora.com/What-is-the-proper-definition-of-a-startup/answer/Dave-McClure)
 * [How do you build a company?](https://www.quora.com/How-do-you-build-a-company/answer/Chuck-Eesley)
