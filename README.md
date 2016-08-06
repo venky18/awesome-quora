@@ -6,6 +6,10 @@ Collection of interesting questions/answers on Quora
 
 #### Technical
 
+
+* [In layman's terms, what are the major programming languages, and what are they used for?](https://www.quora.com/In-laymans-terms-what-are-the-major-programming-languages-and-what-are-they-used-for/answer/Isaac-Lewis)
+* [How can the Halting Problem be explained to a layman?](https://www.quora.com/How-can-the-Halting-Problem-be-explained-to-a-layman/answer/Joshua-Engel)
+* [In layman's terms, what is amortized time complexity?](https://www.quora.com/In-laymans-terms-what-is-amortized-time-complexity/answer/Evan-Pu)
 * [What is a coder's worst nightmare?](https://www.quora.com/What-is-a-coders-worst-nightmare/answer/Mick-Stute)
 * [Linux Kernel: After a fork, where exactly does the child's execution start?](https://www.quora.com/Linux-Kernel-After-a-fork-where-exactly-does-the-childs-execution-start/answer/Robert-Love-1)
 * [Why is C++ so irreplaceable?](https://www.quora.com/Why-is-C++-so-irreplaceable/answer/Robert-Love-1)
@@ -31,6 +35,9 @@ Collection of interesting questions/answers on Quora
 
 #### General
 
+* [How can you explain black holes to a kid?](https://www.quora.com/How-can-you-explain-black-holes-to-a-kid/answer/Robert-Frost-1)
+* [What's it like to have a 150 IQ? Is life easier?](https://www.quora.com/Whats-it-like-to-have-a-150-IQ-Is-life-easier/answer/Steven-Mason)
+* [How do people live in North Korea?](https://www.quora.com/How-do-people-live-in-North-Korea/answer/Raymond-K-Cunningham-Jr)
 * [Visual Perception: Is everyone's experience of color the same?](https://www.quora.com/Visual-Perception-Is-everyones-experience-of-color-the-same-1/answers/799528)
 * [How does the thinking or talent of a top 99.999% percentile math person differ from a 99% percentile math person?](https://www.quora.com/How-does-the-thinking-or-talent-of-a-top-99-999-percentile-math-person-differ-from-a-99-percentile-math-person/answer/Daniel-McLaury)
 * [How can one visualize 4-dimensional space?](https://www.quora.com/How-can-one-visualize-4-dimensional-space/answer/Alon-Amit)
