@@ -49,6 +49,9 @@ Collection of interesting questions/answers on Quora
 
 ## General
 
+* [Why do you love reading?](https://www.quora.com/Why-do-you-love-reading/answer/Ojas-Patil-1)
+* [What does it feel like to be in a coma?](https://www.quora.com/What-does-it-feel-like-to-be-in-a-coma/answer/Murat-Morrison)
+* [What is it that nobody tells you about having children?](https://www.quora.com/What-is-it-that-nobody-tells-you-about-having-children/answer/Michelle-Roses)
 * [What were the most ridiculous startup ideas that eventually became successful?](https://www.quora.com/What-were-the-most-ridiculous-startup-ideas-that-eventually-became-successful/answer/Michael-Wolfe)
 * [What is it like to be exposed to new technology after a 20+ year prison sentence?](https://www.quora.com/What-is-it-like-to-be-exposed-to-new-technology-after-a-20+-year-prison-sentence/answer/Michael-Santos-4)
 * [Are there any grammatically sound sentences in English where every word starts with the same letter?](https://www.quora.com/Are-there-any-grammatically-sound-sentences-in-English-where-every-word-starts-with-the-same-letter-2/answer/David-Greenspan)
