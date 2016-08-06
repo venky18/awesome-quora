@@ -4,7 +4,7 @@ Collection of interesting questions/answers on Quora
 ---
 
 
-#### Technical
+## Technical
 
 * [Does safely ejecting from a USB port actually do anything?](https://www.quora.com/Does-safely-ejecting-from-a-USB-port-actually-do-anything/answer/Phillip-Remaker)
 * [Do the best programmers use the fewest lines of code?](https://www.quora.com/Do-the-best-programmers-use-the-fewest-lines-of-code/answer/Phillip-Remaker)
@@ -47,7 +47,7 @@ Collection of interesting questions/answers on Quora
 * [I want to re-learn mathematics from the ground up. What is the best way to do it?](https://www.quora.com/I-want-to-re-learn-mathematics-from-the-ground-up-What-is-the-best-way-to-do-it/answer/David-Joyce-11)
 
 
-#### General
+## General
 
 * [How did Stephen Hawking have children?](https://www.quora.com/How-did-Stephen-Hawking-have-children/answer/Eric-Valor)
 * [How is Stephen Hawking alive in spite of his illness?](https://www.quora.com/How-is-Stephen-Hawking-alive-in-spite-of-his-illness/answer/Eric-Valor)
