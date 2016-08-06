@@ -6,7 +6,9 @@ Collection of interesting questions/answers on Quora
 
 #### Technical
 
-
+* [Game Theory: What is the prisoner's dilemma in layman's terms?](https://www.quora.com/Game-Theory-What-is-the-prisoners-dilemma-in-laymans-terms)
+* [How does BitTorrent work?](https://www.quora.com/How-does-BitTorrent-work/answer/Costya-Perepelitsa)
+* [What's the best way to explain big-O notation in laymen's terms?](https://www.quora.com/Whats-the-best-way-to-explain-big-O-notation-in-laymens-terms/answer/Gayle-Laakmann-McDowell)
 * [In layman's terms, what are the major programming languages, and what are they used for?](https://www.quora.com/In-laymans-terms-what-are-the-major-programming-languages-and-what-are-they-used-for/answer/Isaac-Lewis)
 * [How can the Halting Problem be explained to a layman?](https://www.quora.com/How-can-the-Halting-Problem-be-explained-to-a-layman/answer/Joshua-Engel)
 * [In layman's terms, what is amortized time complexity?](https://www.quora.com/In-laymans-terms-what-is-amortized-time-complexity/answer/Evan-Pu)
@@ -35,11 +37,13 @@ Collection of interesting questions/answers on Quora
 
 #### General
 
+* [What is it like to talk to a serial killer?](https://www.quora.com/What-is-it-like-to-talk-to-a-serial-killer/answers/1910814)
 * [How can you explain black holes to a kid?](https://www.quora.com/How-can-you-explain-black-holes-to-a-kid/answer/Robert-Frost-1)
 * [What's it like to have a 150 IQ? Is life easier?](https://www.quora.com/Whats-it-like-to-have-a-150-IQ-Is-life-easier/answer/Steven-Mason)
 * [How do people live in North Korea?](https://www.quora.com/How-do-people-live-in-North-Korea/answer/Raymond-K-Cunningham-Jr)
 * [Visual Perception: Is everyone's experience of color the same?](https://www.quora.com/Visual-Perception-Is-everyones-experience-of-color-the-same-1/answers/799528)
 * [How does the thinking or talent of a top 99.999% percentile math person differ from a 99% percentile math person?](https://www.quora.com/How-does-the-thinking-or-talent-of-a-top-99-999-percentile-math-person-differ-from-a-99-percentile-math-person/answer/Daniel-McLaury)
+* [How do you explain dimensions greater than 3, to a 5 year old?](https://www.quora.com/How-do-you-explain-dimensions-greater-than-3-to-a-5-year-old/answer/Kevin-Lin)
 * [How can one visualize 4-dimensional space?](https://www.quora.com/How-can-one-visualize-4-dimensional-space/answer/Alon-Amit)
 * [What is the most awesome paradox?](https://www.quora.com/What-is-the-most-awesome-paradox/answer/Ajim-Bagwan)
 * [How can I study more effectively?](https://www.quora.com/How-can-I-study-more-effectively/answers/3691205)
