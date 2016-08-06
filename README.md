@@ -6,6 +6,10 @@ Collection of interesting questions/answers on Quora
 
 #### Technical
 
+* [Does safely ejecting from a USB port actually do anything?](https://www.quora.com/Does-safely-ejecting-from-a-USB-port-actually-do-anything/answer/Phillip-Remaker)
+* [Do the best programmers use the fewest lines of code?](https://www.quora.com/Do-the-best-programmers-use-the-fewest-lines-of-code/answer/Phillip-Remaker)
+* [Why do standards still use plain text?](https://www.quora.com/Why-do-standards-still-use-plain-text/answer/Phillip-Remaker)
+* [How do tech companies deal with bugs that cannot be fixed without major changes to the software?](https://www.quora.com/How-do-tech-companies-deal-with-bugs-that-cannot-be-fixed-without-major-changes-to-the-software/answer/Phillip-Remaker)
 * [Does college make you a better coder?](https://www.quora.com/Does-college-make-you-a-better-coder/answer/Hadi-Partovi)
 * [What is the most interesting attack made on a website?](https://www.quora.com/What-is-the-most-interesting-attack-made-on-a-website/answer/Adri%C3%A1n-Lamo)
 * [Why should someone learn to program in Assembly?](https://www.quora.com/Why-should-someone-learn-to-program-in-Assembly/answer/Brian-Bi)
@@ -45,6 +49,8 @@ Collection of interesting questions/answers on Quora
 
 #### General
 
+* [How did Stephen Hawking have children?](https://www.quora.com/How-did-Stephen-Hawking-have-children/answer/Eric-Valor)
+* [How is Stephen Hawking alive in spite of his illness?](https://www.quora.com/How-is-Stephen-Hawking-alive-in-spite-of-his-illness/answer/Eric-Valor)
 * [What is it like being exceptionally tall?](https://www.quora.com/What-is-it-like-being-exceptionally-tall/answer/David-Schrag)
 * [Is it possible to have a complex or imaginary probability? If so, what would that imply?](https://www.quora.com/Is-it-possible-to-have-a-complex-or-imaginary-probability-If-so-what-would-that-imply/answer/Dan-Piponi)
 * [How do we know that we're not living in a computer simulation?](https://www.quora.com/How-do-we-know-that-were-not-living-in-a-computer-simulation/answer/Dan-Piponi)
