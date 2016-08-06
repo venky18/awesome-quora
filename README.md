@@ -6,6 +6,7 @@ Collection of interesting questions/answers on Quora
 
 #### Technical
 
+* [Is 10^100 + 1 (a googol plus 1) prime?](https://www.quora.com/Is-10-100-+1-a-googol-plus-1-prime/answer/Alon-Amit)
 * [Game Theory: What is the prisoner's dilemma in layman's terms?](https://www.quora.com/Game-Theory-What-is-the-prisoners-dilemma-in-laymans-terms)
 * [How does BitTorrent work?](https://www.quora.com/How-does-BitTorrent-work/answer/Costya-Perepelitsa)
 * [What's the best way to explain big-O notation in laymen's terms?](https://www.quora.com/Whats-the-best-way-to-explain-big-O-notation-in-laymens-terms/answer/Gayle-Laakmann-McDowell)
@@ -37,6 +38,13 @@ Collection of interesting questions/answers on Quora
 
 #### General
 
+* [How do we know that the speed of light is the fastest possible speed in the universe?](https://www.quora.com/How-do-we-know-that-the-speed-of-light-is-the-fastest-possible-speed-in-the-universe/answer/Richard-Muller-3)
+* [What should everyone know about economics?](https://www.quora.com/What-should-everyone-know-about-economics/answer/Prakarsh-Singh-1)
+* [How can I learn about Indian and world economics on my own?](https://www.quora.com/How-can-I-learn-about-Indian-and-world-economics-on-my-own/answer/Deepak-Mehta-2)
+* [Why are some Indians so furious about the BBC documentary 'India's Daughter'? Why did the government of India ban this documentary film?](https://www.quora.com/Why-are-some-Indians-so-furious-about-the-BBC-documentary-Indias-Daughter-Why-did-the-government-of-India-ban-this-documentary-film/answer/Akash-Selvaraj)
+* [How did flowers evolve?](https://www.quora.com/How-did-flowers-evolve/answer/Adriana-Heguy)
+* [How, when and why did apes (hominoideas) lose their tails to evolve into their modern forms?](https://www.quora.com/How-when-and-why-did-apes-hominoideas-lose-their-tails-to-evolve-into-their-modern-forms/answer/Adriana-Heguy)
+* [Do animals or human beings feel pain after being beheaded?](https://www.quora.com/Do-animals-or-human-beings-feel-pain-after-being-beheaded/answer/Adriana-Heguy)
 * [What is it like to talk to a serial killer?](https://www.quora.com/What-is-it-like-to-talk-to-a-serial-killer/answers/1910814)
 * [How can you explain black holes to a kid?](https://www.quora.com/How-can-you-explain-black-holes-to-a-kid/answer/Robert-Frost-1)
 * [What's it like to have a 150 IQ? Is life easier?](https://www.quora.com/Whats-it-like-to-have-a-150-IQ-Is-life-easier/answer/Steven-Mason)
