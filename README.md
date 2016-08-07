@@ -49,6 +49,10 @@ Collection of interesting questions/answers on Quora
 
 ## General
 
+* [What are some policies that would improve millions of lives, but people still oppose?](https://www.quora.com/What-are-some-policies-that-would-improve-millions-of-lives-but-people-still-oppose/answer/Ryan-Carlyle)
+* [How long does it take to recognize a face?](https://www.quora.com/How-long-does-it-take-to-recognize-a-face/answer/Paul-King-2)
+* [Why do some people hate the United Nations?](https://www.quora.com/Why-do-some-people-hate-the-United-Nations/answer/Nate-Anderson-1)
+* [Is it possible that one specialized scientist (preferably polymath), who has time-traveled more than 200 years to the past, could construct a working computer from the ground up in less than 20 years?](https://www.quora.com/Is-it-possible-that-one-specialized-scientist-preferably-polymath-who-has-time-traveled-more-than-200-years-to-the-past-could-construct-a-working-computer-from-the-ground-up-in-less-than-20-years/answer/Matt-Harbowy) 
 * [Why do you love reading?](https://www.quora.com/Why-do-you-love-reading/answer/Ojas-Patil-1)
 * [What does it feel like to be in a coma?](https://www.quora.com/What-does-it-feel-like-to-be-in-a-coma/answer/Murat-Morrison)
 * [What is it that nobody tells you about having children?](https://www.quora.com/What-is-it-that-nobody-tells-you-about-having-children/answer/Michelle-Roses)
