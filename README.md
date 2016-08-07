@@ -49,7 +49,12 @@ Collection of interesting questions/answers on Quora
 
 ## General
 
+
+* [Can questions that are impossible to answer completely nevertheless be answered adequately?](https://www.quora.com/Can-questions-that-are-impossible-to-answer-completely-nevertheless-be-answered-adequately/answer/Steve-Denton)
+* [Why is advice largely useless?](https://www.quora.com/Questions-That-Contain-Incorrect-Assumptions-Why-is-advice-largely-useless/answer/Soleio)
+* [How can you tell whether someone is smarter than you?](https://www.quora.com/How-can-you-tell-whether-someone-is-smarter-than-you/answer/Sanjay-Sabnani)
 * [What are some policies that would improve millions of lives, but people still oppose?](https://www.quora.com/What-are-some-policies-that-would-improve-millions-of-lives-but-people-still-oppose/answer/Ryan-Carlyle)
+* [What is a day in the life of a porn star like?](https://www.quora.com/What-is-a-day-in-the-life-of-a-porn-star-like/answer/Siri-4)
 * [How long does it take to recognize a face?](https://www.quora.com/How-long-does-it-take-to-recognize-a-face/answer/Paul-King-2)
 * [Why do some people hate the United Nations?](https://www.quora.com/Why-do-some-people-hate-the-United-Nations/answer/Nate-Anderson-1)
 * [Is it possible that one specialized scientist (preferably polymath), who has time-traveled more than 200 years to the past, could construct a working computer from the ground up in less than 20 years?](https://www.quora.com/Is-it-possible-that-one-specialized-scientist-preferably-polymath-who-has-time-traveled-more-than-200-years-to-the-past-could-construct-a-working-computer-from-the-ground-up-in-less-than-20-years/answer/Matt-Harbowy) 
