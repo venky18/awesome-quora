@@ -130,7 +130,7 @@ Collection of interesting questions/answers on Quora
 * [What happens in my brain when I can't recall something I know or it's on the "tip of my tongue"?](https://www.quora.com/What-happens-in-my-brain-when-I-cant-recall-something-I-know-or-its-on-the-tip-of-my-tongue/answer/Paul-King-2)
 * [What happens to Neo at the end of The Matrix Revolutions?](https://www.quora.com/What-happens-to-Neo-at-the-end-of-The-Matrix-Revolutions/answer/Chris-Peters-2)
 * [What have you learned from debating religion on Quora?](https://www.quora.com/What-have-you-learned-from-debating-religion-on-Quora/answer/Marcus-Geduld)
-* [What if Chaos Theory, in layman's terms?](https://www.quora.com/Briefly-what-is-chaos-theory/answers/2889384)
+* [What is Chaos Theory, in layman's terms?](https://www.quora.com/Briefly-what-is-chaos-theory/answers/2889384)
 * [What is a coder's worst nightmare?](https://www.quora.com/What-is-a-coders-worst-nightmare/answer/Mick-Stute)
 * [What is a day in the life of a porn star like?](https://www.quora.com/What-is-a-day-in-the-life-of-a-porn-star-like/answer/Siri-4)
 * [What is a simple explanation of higher order functions and callbacks in JavaScript?](https://www.quora.com/What-is-a-simple-explanation-of-higher-order-functions-and-callbacks-in-JavaScript/answer/Mattias-Petter-Johansson)
