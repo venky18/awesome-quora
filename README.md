@@ -3,6 +3,12 @@ Collection of interesting questions/answers on Quora
 
 ---
 
+* [How would you explain to a five-year-old that higher taxes on the rich don't fix everything?](https://www.quora.com/How-would-you-explain-to-a-five-year-old-that-higher-taxes-on-the-rich-dont-fix-everything/answer/Matt-Dotson)
+* [In layman's terms, how does Naive Bayes work?](https://www.quora.com/In-laymans-terms-how-does-Naive-Bayes-work/answer/Pararth-Shah)
+* [What exactly happened to the Indian economy in 1991 in layman's terms?](https://www.quora.com/What-exactly-happened-to-the-Indian-economy-in-1991-in-laymans-terms/answer/Balaji-Viswanathan-2)
+* [How does randomization in a random forest work?](https://www.quora.com/How-does-randomization-in-a-random-forest-work/answer/Edwin-Chen-1)
+* [What if Chaos Theory, in layman's terms?](https://www.quora.com/Briefly-what-is-chaos-theory/answers/2889384)
+* [How do you explain evolution to a 10-year-old?](https://www.quora.com/How-do-you-explain-evolution-to-a-10-year-old/answer/Chris-Bland-2)
 * [Are human stomachs better able to digest cooked meat than raw meat? If yes, why did we evolve this way?](https://www.quora.com/Are-human-stomachs-better-able-to-digest-cooked-meat-than-raw-meat-If-yes-why-did-we-evolve-this-way/answer/Adriana-Heguy)
 * [Are there any grammatically sound sentences in English where every word starts with the same letter?](https://www.quora.com/Are-there-any-grammatically-sound-sentences-in-English-where-every-word-starts-with-the-same-letter-2/answer/David-Greenspan)
 * [Are there skills (other than coding) that I can learn to get a good paid job?](https://www.quora.com/Are-there-skills-other-than-coding-that-I-can-learn-to-get-a-good-paid-job/answer/Balaji-Viswanathan-2)
@@ -33,6 +39,14 @@ Collection of interesting questions/answers on Quora
 * [How do people live in North Korea?](https://www.quora.com/How-do-people-live-in-North-Korea/answer/Raymond-K-Cunningham-Jr)
 * [How do tech companies deal with bugs that cannot be fixed without major changes to the software?](https://www.quora.com/How-do-tech-companies-deal-with-bugs-that-cannot-be-fixed-without-major-changes-to-the-software/answer/Phillip-Remaker)
 * [How do we know that the speed of light is the fastest possible speed in the universe?](https://www.quora.com/How-do-we-know-that-the-speed-of-light-is-the-fastest-possible-speed-in-the-universe/answer/Richard-Muller-3)
+* [What should everyone know about math?](https://www.quora.com/What-should-everyone-know-about-math/answer/Bob-Hooker)
+* [What does it feel like to be an introvert?](https://www.quora.com/What-does-it-feel-like-to-be-an-introvert)
+* [What is it like to be blind?](https://www.quora.com/What-is-it-like-to-be-blind/answer/Cristina-Hartmann)
+* [What does it feel like to have bipolar disorder?](https://www.quora.com/What-does-it-feel-like-to-have-bipolar-disorder)
+* [What is it like to have schizophrenia?](https://www.quora.com/What-is-it-like-to-have-schizophrenia-1)
+* [What does it feel like to be an average programmer among very talented ones?](https://www.quora.com/What-does-it-feel-like-to-be-an-average-programmer-among-very-talented-ones)
+* [What is it like to be an INTP?](https://www.quora.com/What-is-it-like-to-be-an-INTP)
+* [What should everyone know about making good charts and graphs to represent data?](https://www.quora.com/What-should-everyone-know-about-making-good-charts-and-graphs-to-represent-data/answer/William-Chen-6)
 * [How do we know that we're not living in a computer simulation?](https://www.quora.com/How-do-we-know-that-were-not-living-in-a-computer-simulation/answer/Dan-Piponi)
 * [How do you build a company?](https://www.quora.com/How-do-you-build-a-company/answer/Chuck-Eesley)
 * [How do you explain dimensions greater than 3, to a 5 year old?](https://www.quora.com/How-do-you-explain-dimensions-greater-than-3-to-a-5-year-old/answer/Kevin-Lin)
