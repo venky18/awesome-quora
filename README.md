@@ -3,14 +3,15 @@ Collection of interesting questions/answers on Quora
 
 ---
 
-## Technical
-
+* [How should I explain dynamic programming to a 4-year-old?](https://www.quora.com/How-should-I-explain-dynamic-programming-to-a-4-year-old/answer/Jonathan-Paulson)
 * [Do the best programmers use the fewest lines of code?](https://www.quora.com/Do-the-best-programmers-use-the-fewest-lines-of-code/answer/Phillip-Remaker)
 * [Does college make you a better coder?](https://www.quora.com/Does-college-make-you-a-better-coder/answer/Hadi-Partovi)
 * [Does safely ejecting from a USB port actually do anything?](https://www.quora.com/Does-safely-ejecting-from-a-USB-port-actually-do-anything/answer/Phillip-Remaker)
+* [What's the easiest way to understand Gödel's Incompleteness Theorems?](https://www.quora.com/Whats-the-easiest-way-to-understand-G%C3%B6dels-Incompleteness-Theorems/answer/Edwin-Chen-1)
 * [Game Theory: What is the prisoner's dilemma in layman's terms?](https://www.quora.com/Game-Theory-What-is-the-prisoners-dilemma-in-laymans-terms)
 * [How are regular expressions implemented?](https://www.quora.com/How-are-regular-expressions-implemented/answer/Tikhon-Jelvis)
 * [How can I prepare myself to be a software engineer at Google?](https://www.quora.com/How-can-I-prepare-myself-to-be-a-software-engineer-at-Google/answer/Gaurav-Jha-9)
+* [If you could give one interesting example to grab someone's interest in game theory (ex: how useful it can be) what would that example/problem it be?](https://www.quora.com/If-you-could-give-one-interesting-example-to-grab-someones-interest-in-game-theory-ex-how-useful-it-can-be-what-would-that-example-problem-it-be/answer/Arjun-Subramaniam)
 * [How can the Halting Problem be explained to a layman?](https://www.quora.com/How-can-the-Halting-Problem-be-explained-to-a-layman/answer/Joshua-Engel)
 * [How do tech companies deal with bugs that cannot be fixed without major changes to the software?](https://www.quora.com/How-do-tech-companies-deal-with-bugs-that-cannot-be-fixed-without-major-changes-to-the-software/answer/Phillip-Remaker)
 * [How does BitTorrent work?](https://www.quora.com/How-does-BitTorrent-work/answer/Costya-Perepelitsa)
@@ -47,14 +48,16 @@ Collection of interesting questions/answers on Quora
 * [Why is C++ so irreplaceable?](https://www.quora.com/Why-is-C++-so-irreplaceable/answer/Robert-Love-1)
 * [Why should I write automated tests when I can test manually?](https://www.quora.com/Why-should-I-write-automated-tests-when-I-can-test-manually/answer/Mattias-Petter-Johansson)
 * [Why should someone learn to program in Assembly?](https://www.quora.com/Why-should-someone-learn-to-program-in-Assembly/answer/Brian-Bi)
-
-## General
-
+* [How does the human brain decide which memories to store?](https://www.quora.com/How-does-the-human-brain-decide-which-memories-to-store/answer/Paul-King-2)
+* [What is the evolutionary benefit or purpose of having periods?](https://www.quora.com/What-is-the-evolutionary-benefit-or-purpose-of-having-periods/answers/4625918)
+* [Will I ever be happy again after the loss of my only child?](https://www.quora.com/Will-I-ever-be-happy-again-after-the-loss-of-my-only-child/answer/Sugandha-Banga)
 * [Where can the "pay what you want" model succeed?](https://www.quora.com/Where-can-the-pay-what-you-want-model-succeed/answer/Carl-Shan)
 * [What is the evidence for the Great Vowel Shift?](https://www.quora.com/What-is-the-evidence-for-the-Great-Vowel-Shift/answer/Brian-Collins-56)
 * [How can one become part of the 1%?](https://www.quora.com/How-can-one-become-part-of-the-1/answer/CamMi-Pham)
 * [In general, why does an airport need such a huge area?](https://www.quora.com/In-general-why-does-an-airport-need-such-a-huge-area/answer/Annie-Lindseth)
 * [Does Isaac Newton deserve the praise and respect he's been given throughout history?](https://www.quora.com/Does-Isaac-Newton-deserve-the-praise-and-respect-hes-been-given-throughout-history/answer/Alejandro-Jenkins)
+* [Why do some people think Kim's cover photo on Paper was racist?](https://www.quora.com/Why-do-some-people-think-Kims-cover-photo-on-Paper-was-racist/answer/Chloe-Shani-Malveaux)
+* [Do women, deep down inside, like being stalked?](https://www.quora.com/Do-women-deep-down-inside-like-being-stalked/answer/Marcus-Geduld)
 * [What is it like to work for the Indian Premier League?](https://www.quora.com/What-is-it-like-to-work-for-the-Indian-Premier-League/answer/Alokdutt-Pandey-1)
 * [Are human stomachs better able to digest cooked meat than raw meat? If yes, why did we evolve this way?](https://www.quora.com/Are-human-stomachs-better-able-to-digest-cooked-meat-than-raw-meat-If-yes-why-did-we-evolve-this-way/answer/Adriana-Heguy)
 * [Are there any grammatically sound sentences in English where every word starts with the same letter?](https://www.quora.com/Are-there-any-grammatically-sound-sentences-in-English-where-every-word-starts-with-the-same-letter-2/answer/David-Greenspan)
