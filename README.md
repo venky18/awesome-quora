@@ -50,6 +50,12 @@ Collection of interesting questions/answers on Quora
 
 ## General
 
+* [Where can the "pay what you want" model succeed?](https://www.quora.com/Where-can-the-pay-what-you-want-model-succeed/answer/Carl-Shan)
+* [What is the evidence for the Great Vowel Shift?](https://www.quora.com/What-is-the-evidence-for-the-Great-Vowel-Shift/answer/Brian-Collins-56)
+* [How can one become part of the 1%?](https://www.quora.com/How-can-one-become-part-of-the-1/answer/CamMi-Pham)
+* [In general, why does an airport need such a huge area?](https://www.quora.com/In-general-why-does-an-airport-need-such-a-huge-area/answer/Annie-Lindseth)
+* [Does Isaac Newton deserve the praise and respect he's been given throughout history?](https://www.quora.com/Does-Isaac-Newton-deserve-the-praise-and-respect-hes-been-given-throughout-history/answer/Alejandro-Jenkins)
+* [What is it like to work for the Indian Premier League?](https://www.quora.com/What-is-it-like-to-work-for-the-Indian-Premier-League/answer/Alokdutt-Pandey-1)
 * [Are human stomachs better able to digest cooked meat than raw meat? If yes, why did we evolve this way?](https://www.quora.com/Are-human-stomachs-better-able-to-digest-cooked-meat-than-raw-meat-If-yes-why-did-we-evolve-this-way/answer/Adriana-Heguy)
 * [Are there any grammatically sound sentences in English where every word starts with the same letter?](https://www.quora.com/Are-there-any-grammatically-sound-sentences-in-English-where-every-word-starts-with-the-same-letter-2/answer/David-Greenspan)
 * [Are there skills (other than coding) that I can learn to get a good paid job?](https://www.quora.com/Are-there-skills-other-than-coding-that-I-can-learn-to-get-a-good-paid-job/answer/Balaji-Viswanathan-2)
