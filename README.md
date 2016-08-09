@@ -19,7 +19,7 @@ Collection of interesting questions/answers on Quora
 * [I want to re-learn mathematics from the ground up. What is the best way to do it?](https://www.quora.com/I-want-to-re-learn-mathematics-from-the-ground-up-What-is-the-best-way-to-do-it/answer/David-Joyce-11)
 * [In layman's terms, what are the major programming languages, and what are they used for?](https://www.quora.com/In-laymans-terms-what-are-the-major-programming-languages-and-what-are-they-used-for/answer/Isaac-Lewis)
 * [In layman's terms, what is amortized time complexity?](https://www.quora.com/In-laymans-terms-what-is-amortized-time-complexity/answer/Evan-Pu)
-* [Is (a, b)= (1, 1) (a,b)=(1,1) the only solution of the equation 3^a = b^2 + 2 where a, b are integers?](https://www.quora.com/Is-a-b-1-1-the-only-solution-of-the-equation-3-a-b-2+2-where-a-b-are-integers/answer/Alon-Amit)
+* [Is (a, b) = (1, 1) the only solution of the equation 3^a = b^2 + 2 where a, b are integers?](https://www.quora.com/Is-a-b-1-1-the-only-solution-of-the-equation-3-a-b-2+2-where-a-b-are-integers/answer/Alon-Amit)
 * [Is 10^100 + 1 (a googol plus 1) prime?](https://www.quora.com/Is-10-100-+1-a-googol-plus-1-prime/answer/Alon-Amit)
 * [Is C++ a good first programming language?](https://www.quora.com/Is-C++-a-good-first-programming-language/answer/Brian-Bi)
 * [Is PHP a badly designed programming language?](https://www.quora.com/Is-PHP-a-badly-designed-programming-language/answer/Mattias-Petter-Johansson)
