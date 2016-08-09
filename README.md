@@ -49,6 +49,10 @@ Collection of interesting questions/answers on Quora
 
 ## General
 
+* [Is (a, b)= (1, 1) (a,b)=(1,1) the only solution of the equation 3^a = b^2 + 2 where a, b are integers?](https://www.quora.com/Is-a-b-1-1-the-only-solution-of-the-equation-3-a-b-2+2-where-a-b-are-integers/answer/Alon-Amit)
+* [Track and Field: Why are starting blocks designed for starting from a crouched position?](https://www.quora.com/Track-and-Field-Why-are-starting-blocks-designed-for-starting-from-a-crouched-position/answer/Aaron-Ellis)
+* [Why are petrol prices rising in India?](https://www.quora.com/Why-are-petrol-prices-rising-in-India/answer/Kiran-Kadav)
+* [What is it like to be a drug dealer?](https://www.quora.com/What-is-it-like-to-be-a-drug-dealer/answers/609449)
 * [Are human stomachs better able to digest cooked meat than raw meat? If yes, why did we evolve this way?](https://www.quora.com/Are-human-stomachs-better-able-to-digest-cooked-meat-than-raw-meat-If-yes-why-did-we-evolve-this-way/answer/Adriana-Heguy)
 * [Are there any grammatically sound sentences in English where every word starts with the same letter?](https://www.quora.com/Are-there-any-grammatically-sound-sentences-in-English-where-every-word-starts-with-the-same-letter-2/answer/David-Greenspan)
 * [Are there skills (other than coding) that I can learn to get a good paid job?](https://www.quora.com/Are-there-skills-other-than-coding-that-I-can-learn-to-get-a-good-paid-job/answer/Balaji-Viswanathan-2)
