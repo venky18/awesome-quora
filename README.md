@@ -4,7 +4,13 @@ Collection of interesting questions/answers on Quora
 ---
 
 * [How would you explain to a five-year-old that higher taxes on the rich don't fix everything?](https://www.quora.com/How-would-you-explain-to-a-five-year-old-that-higher-taxes-on-the-rich-dont-fix-everything/answer/Matt-Dotson)
+* [What does it feel like to be at the top 0.1% of Stack Overflow?](https://www.quora.com/What-does-it-feel-like-to-be-at-the-top-0-1-of-Stack-Overflow)
+* [What do all the controls in an airplane's cockpit do?](https://www.quora.com/What-do-all-the-controls-in-an-airplanes-cockpit-do/answer/Tim-Morgan-5)
+* [How does one determine whether a number is evenly divisible by 7?](https://www.quora.com/How-does-one-determine-whether-a-number-is-evenly-divisible-by-7/answer/Dan-Piponi)
+* [What do you do when you are good at something but not good enough?](https://www.quora.com/What-do-you-do-when-you-are-good-at-something-but-not-good-enough)
 * [In layman's terms, how does Naive Bayes work?](https://www.quora.com/In-laymans-terms-how-does-Naive-Bayes-work/answer/Pararth-Shah)
+* [What have you learned from debating religion on Quora?](https://www.quora.com/What-have-you-learned-from-debating-religion-on-Quora/answer/Marcus-Geduld)
+* [I'm interested in too many things, how can I choose a major/career and is it necessary to choose one?](https://www.quora.com/Im-interested-in-too-many-things-how-can-I-choose-a-major-career-and-is-it-necessary-to-choose-one/answer/Marcus-Geduld)
 * [What exactly happened to the Indian economy in 1991 in layman's terms?](https://www.quora.com/What-exactly-happened-to-the-Indian-economy-in-1991-in-laymans-terms/answer/Balaji-Viswanathan-2)
 * [How does randomization in a random forest work?](https://www.quora.com/How-does-randomization-in-a-random-forest-work/answer/Edwin-Chen-1)
 * [What if Chaos Theory, in layman's terms?](https://www.quora.com/Briefly-what-is-chaos-theory/answers/2889384)
