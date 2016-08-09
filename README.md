@@ -19,6 +19,7 @@ Collection of interesting questions/answers on Quora
 * [I want to re-learn mathematics from the ground up. What is the best way to do it?](https://www.quora.com/I-want-to-re-learn-mathematics-from-the-ground-up-What-is-the-best-way-to-do-it/answer/David-Joyce-11)
 * [In layman's terms, what are the major programming languages, and what are they used for?](https://www.quora.com/In-laymans-terms-what-are-the-major-programming-languages-and-what-are-they-used-for/answer/Isaac-Lewis)
 * [In layman's terms, what is amortized time complexity?](https://www.quora.com/In-laymans-terms-what-is-amortized-time-complexity/answer/Evan-Pu)
+* [Is (a, b)= (1, 1) (a,b)=(1,1) the only solution of the equation 3^a = b^2 + 2 where a, b are integers?](https://www.quora.com/Is-a-b-1-1-the-only-solution-of-the-equation-3-a-b-2+2-where-a-b-are-integers/answer/Alon-Amit)
 * [Is 10^100 + 1 (a googol plus 1) prime?](https://www.quora.com/Is-10-100-+1-a-googol-plus-1-prime/answer/Alon-Amit)
 * [Is C++ a good first programming language?](https://www.quora.com/Is-C++-a-good-first-programming-language/answer/Brian-Bi)
 * [Is PHP a badly designed programming language?](https://www.quora.com/Is-PHP-a-badly-designed-programming-language/answer/Mattias-Petter-Johansson)
@@ -49,10 +50,6 @@ Collection of interesting questions/answers on Quora
 
 ## General
 
-* [Is (a, b)= (1, 1) (a,b)=(1,1) the only solution of the equation 3^a = b^2 + 2 where a, b are integers?](https://www.quora.com/Is-a-b-1-1-the-only-solution-of-the-equation-3-a-b-2+2-where-a-b-are-integers/answer/Alon-Amit)
-* [Track and Field: Why are starting blocks designed for starting from a crouched position?](https://www.quora.com/Track-and-Field-Why-are-starting-blocks-designed-for-starting-from-a-crouched-position/answer/Aaron-Ellis)
-* [Why are petrol prices rising in India?](https://www.quora.com/Why-are-petrol-prices-rising-in-India/answer/Kiran-Kadav)
-* [What is it like to be a drug dealer?](https://www.quora.com/What-is-it-like-to-be-a-drug-dealer/answers/609449)
 * [Are human stomachs better able to digest cooked meat than raw meat? If yes, why did we evolve this way?](https://www.quora.com/Are-human-stomachs-better-able-to-digest-cooked-meat-than-raw-meat-If-yes-why-did-we-evolve-this-way/answer/Adriana-Heguy)
 * [Are there any grammatically sound sentences in English where every word starts with the same letter?](https://www.quora.com/Are-there-any-grammatically-sound-sentences-in-English-where-every-word-starts-with-the-same-letter-2/answer/David-Greenspan)
 * [Are there skills (other than coding) that I can learn to get a good paid job?](https://www.quora.com/Are-there-skills-other-than-coding-that-I-can-learn-to-get-a-good-paid-job/answer/Balaji-Viswanathan-2)
@@ -89,6 +86,7 @@ Collection of interesting questions/answers on Quora
 * [Is it possible to have a complex or imaginary probability? If so, what would that imply?](https://www.quora.com/Is-it-possible-to-have-a-complex-or-imaginary-probability-If-so-what-would-that-imply/answer/Dan-Piponi)
 * [Life Advice: What is the one skill that, if you have it, will completely change your life?](https://www.quora.com/Life-Advice-What-is-the-one-skill-that-if-you-have-it-will-completely-change-your-life/answer/Archie-DCruz)
 * [Life Lessons: What can I learn in one minute that will be useful for the rest of my life?](https://www.quora.com/Life-Lessons-What-can-I-learn-in-one-minute-that-will-be-useful-for-the-rest-of-my-life-1/answer/Steven-N-Czetli)
+* [Track and Field: Why are starting blocks designed for starting from a crouched position?](https://www.quora.com/Track-and-Field-Why-are-starting-blocks-designed-for-starting-from-a-crouched-position/answer/Aaron-Ellis)
 * [Visual Perception: Is everyone's experience of color the same?](https://www.quora.com/Visual-Perception-Is-everyones-experience-of-color-the-same-1/answers/799528)
 * [What advice would Jimmy Wales give to the young generation?](https://www.quora.com/What-advice-would-Jimmy-Wales-give-to-the-young-generation/answer/Jimmy-Wales)
 * [What are some examples of novels, books etc. with exceptional, unique, groundbreaking approaches to storytelling?](https://www.quora.com/What-are-some-examples-of-novels-books-etc-with-exceptional-unique-groundbreaking-approaches-to-storytelling/answer/Jay-Bazzinotti)
@@ -98,6 +96,7 @@ Collection of interesting questions/answers on Quora
 * [What happens to Neo at the end of The Matrix Revolutions?](https://www.quora.com/What-happens-to-Neo-at-the-end-of-The-Matrix-Revolutions/answer/Chris-Peters-2)
 * [What is a day in the life of a porn star like?](https://www.quora.com/What-is-a-day-in-the-life-of-a-porn-star-like/answer/Siri-4)
 * [What is it like being exceptionally tall?](https://www.quora.com/What-is-it-like-being-exceptionally-tall/answer/David-Schrag)
+* [What is it like to be a drug dealer?](https://www.quora.com/What-is-it-like-to-be-a-drug-dealer/answers/609449)
 * [What is it like to be exposed to new technology after a 20+ year prison sentence?](https://www.quora.com/What-is-it-like-to-be-exposed-to-new-technology-after-a-20+-year-prison-sentence/answer/Michael-Santos-4)
 * [What is it like to talk to a serial killer?](https://www.quora.com/What-is-it-like-to-talk-to-a-serial-killer/answers/1910814)
 * [What is it like to understand advanced mathematics?](https://www.quora.com/What-is-it-like-to-understand-advanced-mathematics/answers/873950)
@@ -112,6 +111,7 @@ Collection of interesting questions/answers on Quora
 * [What's it like to have a 150 IQ? Is life easier?](https://www.quora.com/Whats-it-like-to-have-a-150-IQ-Is-life-easier/answer/Steven-Mason)
 * [What's the most frustrating thing about the popular (mis) understanding of science?](https://www.quora.com/Adriana-Heguy-Whats-the-most-frustrating-thing-about-the-popular-mis-understanding-of-science/answer/Adriana-Heguy)
 * [Which are the most horrific science experiments?](https://www.quora.com/Which-are-the-most-horrific-science-experiments/answer/Tal-Reichert)
+* [Why are petrol prices rising in India?](https://www.quora.com/Why-are-petrol-prices-rising-in-India/answer/Kiran-Kadav)
 * [Why are some Indians so furious about the BBC documentary 'India's Daughter'? Why did the government of India ban this documentary film?](https://www.quora.com/Why-are-some-Indians-so-furious-about-the-BBC-documentary-Indias-Daughter-Why-did-the-government-of-India-ban-this-documentary-film/answer/Akash-Selvaraj)
 * [Why do most girl names end with an 'aa' sound? Does your language have girl names that end with a consonant sound?](https://www.quora.com/Why-do-most-girl-names-end-with-an-aa-sound-Does-your-language-have-girl-names-that-end-with-a-consonant-sound/answer/Sandhya-Ramesh)
 * [Why do people like Game of Thrones?](https://www.quora.com/Why-do-people-like-Game-of-Thrones-1/answer/Todd-Gardiner)
