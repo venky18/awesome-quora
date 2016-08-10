@@ -5,6 +5,7 @@ Collection of interesting questions/answers on Quora
 
 * [According to the theory of evolution, why do we die?](https://www.quora.com/Death-and-Dying-According-to-the-theory-of-evolution-why-do-we-die/answer/Suzanne-Sadedin)
 * [Are human stomachs better able to digest cooked meat than raw meat? If yes, why did we evolve this way?](https://www.quora.com/Are-human-stomachs-better-able-to-digest-cooked-meat-than-raw-meat-If-yes-why-did-we-evolve-this-way/answer/Adriana-Heguy)
+* [Why do we get frustrated when learning something?](https://www.quora.com/Why-do-we-get-frustrated-when-learning-something/answer/Marcus-Geduld)
 * [Are the features we see in indigenous Africans proof of evolution since apes and homo sapiens originated from the continent?](https://www.quora.com/Are-the-features-we-see-in-indigenous-Africans-proof-of-evolution-since-apes-and-homo-sapiens-originated-from-the-continent/answer/Joshua-Engel)
 * [Are there any grammatically sound sentences in English where every word starts with the same letter?](https://www.quora.com/Are-there-any-grammatically-sound-sentences-in-English-where-every-word-starts-with-the-same-letter-2/answer/David-Greenspan)
 * [Are there skills (other than coding) that I can learn to get a good paid job?](https://www.quora.com/Are-there-skills-other-than-coding-that-I-can-learn-to-get-a-good-paid-job/answer/Balaji-Viswanathan-2)
