@@ -9,6 +9,8 @@ Collection of interesting questions/answers on Quora
 * [Are human stomachs better able to digest cooked meat than raw meat? If yes, why did we evolve this way?](https://www.quora.com/Are-human-stomachs-better-able-to-digest-cooked-meat-than-raw-meat-If-yes-why-did-we-evolve-this-way/answer/Adriana-Heguy)
 * [Are the features we see in indigenous Africans proof of evolution since apes and homo sapiens originated from the continent?](https://www.quora.com/Are-the-features-we-see-in-indigenous-Africans-proof-of-evolution-since-apes-and-homo-sapiens-originated-from-the-continent/answer/Joshua-Engel)
 * [Are there any grammatically sound sentences in English where every word starts with the same letter?](https://www.quora.com/Are-there-any-grammatically-sound-sentences-in-English-where-every-word-starts-with-the-same-letter-2/answer/David-Greenspan)
+* [What is it like to be kidnapped?](https://www.quora.com/What-is-it-like-to-be-kidnapped/answer/Jose-Maldonado-5)
+* [What does it feel like to have your sibling die?](https://www.quora.com/What-does-it-feel-like-to-have-your-sibling-die)
 * [Are there skills (other than coding) that I can learn to get a good paid job?](https://www.quora.com/Are-there-skills-other-than-coding-that-I-can-learn-to-get-a-good-paid-job/answer/Balaji-Viswanathan-2)
 * [Batman (creative franchise): What are the long term health consequences of Mr. Harvey Dent's open face wound?](https://www.quora.com/Batman-creative-franchise-What-are-the-long-term-health-consequences-of-Mr-Harvey-Dents-open-face-wound/answer/Ramzi-Amri)
 * [Can black holes devour other black holes?](https://www.quora.com/Can-black-holes-devour-other-black-holes/answer/Leo-C-Stein)
