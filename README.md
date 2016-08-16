@@ -213,7 +213,6 @@ Collection of interesting questions/answers on Quora
 * [What was the most fatal/worst century in human history?](https://www.quora.com/What-was-the-most-fatal-worst-century-in-human-history/answer/Brandon-Li-11)
 * [What were the most ridiculous startup ideas that eventually became successful?](https://www.quora.com/What-were-the-most-ridiculous-startup-ideas-that-eventually-became-successful/answer/Michael-Wolfe)
 * [What's an efficient way to overcome procrastination?](https://www.quora.com/Whats-an-efficient-way-to-overcome-procrastination/answer/Oliver-Emberton)
-* [What's an efficient way to overcome procrastination?](https://www.quora.com/Whats-an-efficient-way-to-overcome-procrastination/answer/Raman-Shah)
 * [What's it like to have a 150 IQ? Is life easier?](https://www.quora.com/Whats-it-like-to-have-a-150-IQ-Is-life-easier/answer/Steven-Mason)
 * [What's the best way to explain big-O notation in laymen's terms?](https://www.quora.com/Whats-the-best-way-to-explain-big-O-notation-in-laymens-terms/answer/Gayle-Laakmann-McDowell)
 * [What's the easiest way to understand Gödel's Incompleteness Theorems?](https://www.quora.com/Whats-the-easiest-way-to-understand-G%C3%B6dels-Incompleteness-Theorems/answer/Edwin-Chen-1)
