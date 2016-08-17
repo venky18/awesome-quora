@@ -7,6 +7,8 @@ Collection of interesting questions/answers on Quora
 * [Are birds dinosaurs?](https://www.quora.com/Are-birds-dinosaurs/answer/Ian-York)
 * [Are general requirements in college a waste of time?](https://www.quora.com/Are-general-requirements-in-college-a-waste-of-time/answer/Joshua-Engel)
 * [Are human stomachs better able to digest cooked meat than raw meat? If yes, why did we evolve this way?](https://www.quora.com/Are-human-stomachs-better-able-to-digest-cooked-meat-than-raw-meat-If-yes-why-did-we-evolve-this-way/answer/Adriana-Heguy)
+* [Are stealth games (eg Splinter Cell, Metal Gear Solid, Hitman) in any way realistic?](https://www.quora.com/Are-stealth-games-eg-Splinter-Cell-Metal-Gear-Solid-Hitman-in-any-way-realistic/answer/Pavel-Drot%C3%A1r)
+* [Why do movie franchises make 3 movies (trilogy) as a standard? Why not two or four?](https://www.quora.com/Why-do-movie-franchises-make-3-movies-trilogy-as-a-standard-Why-not-two-or-four/answer/Robert-Frost-1)
 * [Are the features we see in indigenous Africans proof of evolution since apes and homo sapiens originated from the continent?](https://www.quora.com/Are-the-features-we-see-in-indigenous-Africans-proof-of-evolution-since-apes-and-homo-sapiens-originated-from-the-continent/answer/Joshua-Engel)
 * [Are there any grammatically sound sentences in English where every word starts with the same letter?](https://www.quora.com/Are-there-any-grammatically-sound-sentences-in-English-where-every-word-starts-with-the-same-letter-2/answer/David-Greenspan)
 * [Are there skills (other than coding) that I can learn to get a good paid job?](https://www.quora.com/Are-there-skills-other-than-coding-that-I-can-learn-to-get-a-good-paid-job/answer/Balaji-Viswanathan-2)
