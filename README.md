@@ -1,5 +1,5 @@
 # Quora Collection
-Collection of interesting questions/answers on Quora
+Collection of interesting questions, answers & blog posts on Quora
 
 ---
 
@@ -7,8 +7,17 @@ Collection of interesting questions/answers on Quora
 * [Are birds dinosaurs?](https://www.quora.com/Are-birds-dinosaurs/answer/Ian-York)
 * [Are general requirements in college a waste of time?](https://www.quora.com/Are-general-requirements-in-college-a-waste-of-time/answer/Joshua-Engel)
 * [Are human stomachs better able to digest cooked meat than raw meat? If yes, why did we evolve this way?](https://www.quora.com/Are-human-stomachs-better-able-to-digest-cooked-meat-than-raw-meat-If-yes-why-did-we-evolve-this-way/answer/Adriana-Heguy)
+* [Indian Space Mission, Poverty and Closet Racism](https://balajiviswanathan.quora.com/Indian-Space-Mission-Poverty-and-Closet-Racism)
+* [Why does Kerala have a higher crime rate even though most of the population is well educated?](https://www.quora.com/Why-does-Kerala-have-a-higher-crime-rate-even-though-most-of-the-population-is-well-educated/answer/Kshitij-Salgunan)
+* [How do you impress an Indian?](https://www.quora.com/How-do-you-impress-an-Indian/answer/Nitish-Alodia)
+* [What facts about the United States do foreigners not believe until they come to America?](https://www.quora.com/What-facts-about-the-United-States-do-foreigners-not-believe-until-they-come-to-America)
+* [What are the best stories about randomly meeting a celebrity and not recognizing him/her?](https://www.quora.com/What-are-the-best-stories-about-randomly-meeting-a-celebrity-and-not-recognizing-him-her/answer/Mila-Jacob-Stetser)
+* [What would a modern-day evil genius have to do in order to take over the world?](https://www.quora.com/What-would-a-modern-day-evil-genius-have-to-do-in-order-to-take-over-the-world/answer/Oliver-Emberton)
+* [What life lessons are counter-intuitive or go against common sense or wisdom?](https://www.quora.com/What-life-lessons-are-counter-intuitive-or-go-against-common-sense-or-wisdom/answer/Yishan-Wong)
+* [What did it feel like to be inside the World Trade Center at the time of the 9/11 attacks?](https://www.quora.com/What-did-it-feel-like-to-be-inside-the-World-Trade-Center-at-the-time-of-the-9-11-attacks)
 * [What are the tradeoffs of client-side rendering vs. server-side rendering?](https://www.quora.com/What-are-the-tradeoffs-of-client-side-rendering-vs-server-side-rendering/answer/David-Greenspan)
 * [Are stealth games (eg Splinter Cell, Metal Gear Solid, Hitman) in any way realistic?](https://www.quora.com/Are-stealth-games-eg-Splinter-Cell-Metal-Gear-Solid-Hitman-in-any-way-realistic/answer/Pavel-Drot%C3%A1r)
+* [What are some of the greatest acting performances to not win an Oscar? Why?](https://www.quora.com/What-are-some-of-the-greatest-acting-performances-to-not-win-an-Oscar-Why/answer/Adam-Rauscher)
 * [Why do movie franchises make 3 movies (trilogy) as a standard? Why not two or four?](https://www.quora.com/Why-do-movie-franchises-make-3-movies-trilogy-as-a-standard-Why-not-two-or-four/answer/Robert-Frost-1)
 * [Are the features we see in indigenous Africans proof of evolution since apes and homo sapiens originated from the continent?](https://www.quora.com/Are-the-features-we-see-in-indigenous-Africans-proof-of-evolution-since-apes-and-homo-sapiens-originated-from-the-continent/answer/Joshua-Engel)
 * [Are there any grammatically sound sentences in English where every word starts with the same letter?](https://www.quora.com/Are-there-any-grammatically-sound-sentences-in-English-where-every-word-starts-with-the-same-letter-2/answer/David-Greenspan)
