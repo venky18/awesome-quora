@@ -76,7 +76,6 @@ Collection of interesting questions, answers & blog posts on Quora
 * [How does BitTorrent work?](https://www.quora.com/How-does-BitTorrent-work/answer/Costya-Perepelitsa)
 * [How does a computer chip work?](https://www.quora.com/How-does-a-computer-chip-work/answer/Subhasis-Das)
 * [How does a spider decide where to put up its web?](https://www.quora.com/How-does-a-spider-decide-where-to-put-up-its-web/answer/Marc-Srour)
-* [How does a star engineering high school senior choose among Carnegie Mellon, MIT, Caltech, Stanford and Harvard?](https://www.quora.com/How-does-a-star-engineering-high-school-senior-choose-among-Carnegie-Mellon-MIT-Caltech-Stanford-and-Harvard/answer/Melinda-T-Owens)
 * [How does evolution work?](https://www.quora.com/How-does-evolution-work/answer/Arjun-Subramaniam)
 * [How does it feel to get fired from your job suddenly?](https://www.quora.com/How-does-it-feel-to-get-fired-from-your-job-suddenly/answer/Jake-Hawken)
 * [How does it feel to have sex with your spouse on your wedding night when he/she is a stranger?](https://www.quora.com/How-does-it-feel-to-have-sex-with-your-spouse-on-your-wedding-night-when-he-she-is-a-stranger/answers/2400693)
