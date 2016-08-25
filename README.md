@@ -289,6 +289,7 @@ Collection of interesting questions, answers & blog posts on Quora
 * [Why aren't there smells in dreams?](https://www.quora.com/Why-arent-there-smells-in-dreams/answer/Paul-King-2)
 * [Why can't Indians win more Olympic medals?](https://www.quora.com/Why-cant-Indians-win-more-Olympic-medals/answer/Payal-Sharma-50)
 * [Why did Michael Jackson get surgery to turn white?](https://www.quora.com/Why-did-Michael-Jackson-get-surgery-to-turn-white/answer/Ramzi-Amri)
+* [Why did Symbian fail?](https://www.quora.com/Why-did-Symbian-fail/answer/Christopher-Reiss)
 * [Why didn't other animals develop intellect like apes did 100,000 years ago?](https://www.quora.com/Why-didnt-other-animals-develop-intellect-like-apes-did-100-000-years-ago/answer/Joshua-Engel)
 * [Why didn't we humans develop immunity to mosquitoes if they have been around and biting us for millions of years?](https://www.quora.com/Why-didnt-we-humans-develop-immunity-to-mosquitoes-if-they-have-been-around-and-biting-us-for-millions-of-years/answer/Joshua-Engel)
 * [Why do humans behave irrationally?](https://www.quora.com/Why-do-humans-behave-irrationally/answer/Joshua-Engel)
