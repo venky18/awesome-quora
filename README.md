@@ -219,7 +219,6 @@ Collection of interesting questions, answers & blog posts on Quora
 * [What does it feel like to be in a coma?](https://www.quora.com/What-does-it-feel-like-to-be-in-a-coma/answer/Murat-Morrison)
 * [What does it feel like to have a loaded gun pointed at you in anger?](https://www.quora.com/What-does-it-feel-like-to-have-a-loaded-gun-pointed-at-you-in-anger/answer/Edmond-Lau)
 * [What does it feel like to have bipolar disorder?](https://www.quora.com/What-does-it-feel-like-to-have-bipolar-disorder)
-* [What does it feel like to have the top answer on a question (for a long time), only to just get a notification that a Quora power user has just answered it?](https://www.quora.com/What-does-it-feel-like-to-have-the-top-answer-on-a-question-for-a-long-time-only-to-just-get-a-notification-that-a-Quora-power-user-has-just-answered-it/answers/739565)
 * [What does it feel like to have your sibling die?](https://www.quora.com/What-does-it-feel-like-to-have-your-sibling-die)
 * [What does it feel like to murder someone?](https://www.quora.com/What-does-it-feel-like-to-murder-someone/answer/Tommy-Winfrey)
 * [What does it feel like to play grandmaster level chess?](https://www.quora.com/What-does-it-feel-like-to-play-grandmaster-level-chess/answer/John-Fernandez)
