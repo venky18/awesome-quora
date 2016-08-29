@@ -9,6 +9,8 @@ Collection of interesting questions, answers & blog posts on Quora
 - [Contributing](#contributing)
 - [License](#license)
 
+---
+
 ## Questions
 
 * [According to the theory of evolution, why do we die?](https://www.quora.com/Death-and-Dying-According-to-the-theory-of-evolution-why-do-we-die/answer/Suzanne-Sadedin)
