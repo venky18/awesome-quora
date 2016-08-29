@@ -380,7 +380,7 @@ Collection of interesting questions, answers & blog posts on Quora
 
 ## Contributing
 
-Please take a look at our [CONTRIBUTING.md]() file.
+Please take a look at our [CONTRIBUTING.md](contributing.md) file.
 
 ## License
 
