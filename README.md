@@ -30,6 +30,7 @@ Collection of interesting questions, answers & blog posts on Quora
 - [Do grad school students remember everything they were taught in college all the time?](https://www.quora.com/Do-grad-school-students-remember-everything-they-were-taught-in-college-all-the-time/answer/Mark-Eichenlaub)
 - [Do insects sleep?](https://www.quora.com/Do-insects-sleep/answer/Marc-Srour)
 - [Do people still write and compile programs from the command line instead of an IDE? Why or why not?](https://www.quora.com/Do-people-still-write-and-compile-programs-from-the-command-line-instead-of-an-IDE-Why-or-why-not/answer/Mattias-Petter-Johansson)
+- [Do people who are born beautiful, smart and into a wealthy, healthy family know how lucky they are?](https://www.quora.com/Do-people-who-are-born-beautiful-smart-and-into-a-wealthy-healthy-family-know-how-lucky-they-are/answers/9311532)
 - [Do the best programmers use the fewest lines of code?](https://www.quora.com/Do-the-best-programmers-use-the-fewest-lines-of-code/answer/Phillip-Remaker)
 - [Do the Chinese people currently consider Mao Zedong to be evil or a hero?](https://www.quora.com/Do-the-Chinese-people-currently-consider-Mao-Zedong-to-be-evil-or-a-hero/answer/Kaiser-Kuo)
 - [Do women, deep down inside, like being stalked?](https://www.quora.com/Do-women-deep-down-inside-like-being-stalked/answer/Marcus-Geduld)
