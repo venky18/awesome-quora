@@ -3,6 +3,14 @@ Collection of interesting questions, answers & blog posts on Quora
 
 ---
 
+## Table of Contents
+
+- [Questions](#questions)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Questions
+
 * [According to the theory of evolution, why do we die?](https://www.quora.com/Death-and-Dying-According-to-the-theory-of-evolution-why-do-we-die/answer/Suzanne-Sadedin)
 * [Are actors in Hollywood happy and satisfied?](https://www.quora.com/Are-actors-in-Hollywood-happy-and-satisfied/answer/Ken-Miyamoto)
 * [Are birds dinosaurs?](https://www.quora.com/Are-birds-dinosaurs/answer/Ian-York)
@@ -369,3 +377,13 @@ Collection of interesting questions, answers & blog posts on Quora
 * [Why should someone learn to program in Assembly?](https://www.quora.com/Why-should-someone-learn-to-program-in-Assembly/answer/Brian-Bi)
 * [Will I ever be happy again after the loss of my only child?](https://www.quora.com/Will-I-ever-be-happy-again-after-the-loss-of-my-only-child/answer/Sugandha-Banga)
 * [You've got 2 parents, 4 grandparents, 8 great-grandparents, 16 great-great-grandparents etc. Where does the exponential growth stop?](https://www.quora.com/Youve-got-2-parents-4-grandparents-8-great-grandparents-16-great-great-grandparents-etc-Where-does-the-exponential-growth-stop/answer/Joshua-Engel)
+
+## Contributing
+
+Please take a look at our [CONTRIBUTING.md]() file.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the author and contributors of this text have waived all copyright and related or neighboring rights to this work.
