@@ -3,7 +3,7 @@ Collection of interesting questions, answers & blog posts on Quora
 
 ---
 
-## Table of Contents
+## Contents
 
 - [Questions](#questions)
 - [Contributing](#contributing)
