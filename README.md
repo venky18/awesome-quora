@@ -262,7 +262,7 @@ Collection of interesting questions, answers & blog posts on Quora
 - [What is a hobby of yours that you think is fairly uncommon?](https://www.quora.com/What-is-a-hobby-of-yours-that-you-think-is-fairly-uncommon/answer/Sachin-R-Kamath)
 - [What is a simple explanation of higher order functions and callbacks in JavaScript?](https://www.quora.com/What-is-a-simple-explanation-of-higher-order-functions-and-callbacks-in-JavaScript/answer/Mattias-Petter-Johansson)
 - [What is Chaos Theory, in layman's terms?](https://www.quora.com/Briefly-what-is-chaos-theory/answers/2889384)
-- [What is fascinating about dynamically-typed programming languages?](https://www.quora.com/What-is-fascinating-about-dynamically-typed-programming-languages/answer/Shriram-Krishnamurthi?srid=21CJ&share=1)
+- [What is fascinating about dynamically-typed programming languages?](https://www.quora.com/What-is-fascinating-about-dynamically-typed-programming-languages/answer/Shriram-Krishnamurthi)
 - [What is it like being exceptionally tall?](https://www.quora.com/What-is-it-like-being-exceptionally-tall/answer/David-Schrag)
 - [What is it like to be a drug dealer?](https://www.quora.com/What-is-it-like-to-be-a-drug-dealer/answers/609449)
 - [What is it like to be an INTP?](https://www.quora.com/What-is-it-like-to-be-an-INTP)
