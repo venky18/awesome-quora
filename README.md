@@ -102,6 +102,7 @@ Collection of interesting questions, answers & blog posts on Quora
 - [How does BitTorrent work?](http://qr.ae/Ts0VMd)
 - [How does evolution work?](http://qr.ae/Ts0Vu5)
 - [How does it feel to be both highly attractive and highly intelligent?](http://qr.ae/Ts0Vbt)
+- [How does it feel to be extremely poor?](http://qr.ae/T2XB2T)
 - [How does it feel to get fired from your job suddenly?](http://qr.ae/Ts0VWN)
 - [How does it feel to have sex with your spouse on your wedding night when he/she is a stranger?](http://qr.ae/Ts0V9w)
 - [How does one determine whether a number is evenly divisible by 7?](http://qr.ae/Ts0Va1)
