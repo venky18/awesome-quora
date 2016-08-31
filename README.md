@@ -424,6 +424,7 @@ Collection of interesting questions, answers & blog posts on Quora
 - [Why should I write automated tests when I can test manually?](http://qr.ae/Ts0B3x)
 - [Why should someone learn to program in Assembly?](http://qr.ae/Ts0BB3)
 - [Will I ever be happy again after the loss of my only child?](http://qr.ae/Ts0BQ1)
+- [Would a lone adult wolf be able to take down an unarmed, athletic adult human?](http://qr.ae/T2XBBa)
 - [You've got 2 parents, 4 grandparents, 8 great-grandparents, 16 great-great-grandparents etc. Where does the exponential growth stop?](http://qr.ae/Ts0BQfs)
 
 ## Contributing
