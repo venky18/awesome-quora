@@ -24,7 +24,7 @@ Collection of interesting questions, answers & blog posts on Quora
 - [Can an Indian be a white supremacist?](http://qr.ae/Ts0cIm)
 - [Can black holes devour other black holes?](http://qr.ae/Ts0ch1)
 - [Can questions that are impossible to answer completely nevertheless be answered adequately?](http://qr.ae/Ts0ct8)
-- [Computer Programming: What are the basics I should know if I want to write scripts to automate my daily actions (like sending e-mails, downloading files etc.)?](http://qr.ae/Ts0cFx)
+- [Computer Programming: What are the basics I should know if I want to write scripts to automate my daily actions?](http://qr.ae/Ts0cFx)
 - [Descartes, Cantor, Newton, Hobbes, Occam, Franklin, Lincoln. None attended anything we'd call primary or high school. Why should my children?](http://qr.ae/Ts0coM)
 - [Did Pixar accidentally delete Toy Story 2 during production?](http://qr.ae/TsfrQo)
 - [Do all living organisms on Earth share a common ancestor, or did life begin more than once?](http://qr.ae/1dMYX3)
