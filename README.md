@@ -163,6 +163,7 @@ Collection of interesting questions, answers & blog posts on Quora
 - [Is Islam misogynistic?](http://qr.ae/Ts0Dkl)
 - [Is it easier to learn a programming language than a foreign language?](http://qr.ae/8SrxqS)
 - [Is it important for modern programmers to know/use Unix?](http://qr.ae/RLhJs2)
+- [Is it OK if a teacher says "I don't know" to students?](http://qr.ae/T27U4X)
 - [Is it OK to cry near the end of a movie?](http://qr.ae/REYEza)
 - [Is it possible that one specialized scientist (preferably polymath), who has time-traveled more than 200 years to the past, could construct a working computer from the ground up in less than 20 years?](http://qr.ae/Ts0Dzs) 
 - [Is it possible to have a complex or imaginary probability? If so, what would that imply?](http://qr.ae/Ts0D3x)
