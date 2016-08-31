@@ -15,7 +15,7 @@ Collection of interesting questions, answers & blog posts on Quora
 - [Are birds dinosaurs?](http://qr.ae/Ts0Z2o)
 - [Are general requirements in college a waste of time?](http://qr.ae/Ts0ZF2)
 - [Are human stomachs better able to digest cooked meat than raw meat? If yes, why did we evolve this way?](http://qr.ae/Ts0ZWd)
-- [Are stealth games (eg Splinter Cell, Metal Gear Solid, Hitman) in any way realistic?](http://qr.ae/Th0Vm7)
+- [Are stealth games in any way realistic?](http://qr.ae/Th0Vm7)
 - [Are the features we see in indigenous Africans proof of evolution since apes and homo sapiens originated from the continent?](http://qr.ae/Ts0Zzl)
 - [Are there any grammatically sound sentences in English where every word starts with the same letter?](http://qr.ae/Ts0Zju)
 - [Are there skills (other than coding) that I can learn to get a good paid job?](http://qr.ae/Ts0ZQb)
