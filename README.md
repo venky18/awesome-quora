@@ -390,6 +390,7 @@ Collection of interesting questions, answers & blog posts on Quora
 - [What was it like to work on the I Have a Dream (1963 speech) speech with Martin Luther King, Jr.?](http://qr.ae/Ts06UK)
 - [What was the most difficult thing for you to unlearn?](http://qr.ae/Ts069D)
 - [What was the most fatal/worst century in human history?](http://qr.ae/Ts06ak)
+- [What was the most powerful piece of magic performed by anyone in the Harry Potter books?](http://qr.ae/T28eqo)
 - [What was the most significant adaptation in human evolution?](http://qr.ae/Ts06eg)
 - [What were the most ridiculous startup ideas that eventually became successful?](http://qr.ae/Ts06ZL)
 - [What would a modern-day evil genius have to do in order to take over the world?](http://qr.ae/Ts06Sg)
