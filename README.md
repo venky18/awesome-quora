@@ -496,7 +496,7 @@ Collection of interesting questions, answers & blog posts on Quora
 - [Why shouldn't I feel ashamed about going to community college?](http://qr.ae/T28G9V)
 - [Will I ever be happy again after the loss of my only child?](http://qr.ae/Ts0BQ1)
 - [Would a lone adult wolf be able to take down an unarmed, athletic adult human?](http://qr.ae/T2XBBa)
-- [You've got 2 parents, 4 grandparents, 8 great-grandparents, 16 great-great-grandparents etc. Where does the exponential growth stop?](http://qr.ae/Ts0BQfs)
+- [You've got 2 parents, 4 grandparents, 8 great-grandparents, 16 great-great-grandparents etc. Where does the exponential growth stop?](http://qr.ae/Ts0BQf)
 
 ## Contributing
 
